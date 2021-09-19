@@ -12,7 +12,7 @@ public class Mailer {
 
         final String user = "javaprograms1301@gmail.com";
 //change accordingly  
-        final String pass = "Java@1301";
+        final String pass = "Java@13******01";
 
 //1st step) Get the session object	
         Properties props = new Properties();
